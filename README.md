@@ -13,6 +13,8 @@ Lista
 
 Este roadmap é voltado para iniciantes que desejam ingressa na área de programação con Java. Os cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me
 
+[**Roadmap de Java** (Básico ao avançado)](https://github.com/julianazanelatto/roadmap_java_repo/blob/main/README.md)
+
 >"quem nunca errou nunca tentou algo novo!"
 
 <!-- comentário que não aparece
@@ -29,3 +31,11 @@ __*Metas de Cursos*__
 Meta para Janeiro:
 -  [X] Fazer o curso 1
 -  [X] Fazer o curso 2
+
+Task para continuar aprimoramento:
+- [ ] começar a estudar java
+- [ ] assistir ao curso
+- [ ] faça os desafios de código, projeto
+- [ ] refazer sozinho
+- [ ] Tirar dúvidas
+- [ ] Done! :heavy_check_mark:
