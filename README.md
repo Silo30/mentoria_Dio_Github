@@ -20,6 +20,8 @@ Este roadmap é voltado para iniciantes que desejam ingressa na área de program
 
 [**Roadmap de Java** (Básico ao avançado)](https://github.com/julianazanelatto/roadmap_java_repo/blob/main/README.md)
 
+[Guia de ajuda do Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 >"quem nunca errou nunca tentou algo novo!"
 
 `` "Hello mworld! Sua jornada começou!" `` 
