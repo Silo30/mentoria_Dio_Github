@@ -1,7 +1,7 @@
 # mentoria_Dio_Github
 ## roadmap java repo
-### exemplo 2
-<h1> exemplo 3 </h1>
+### Guia para desenvolvimento em Java
+<h1> Do iniciante para o avançado </h1>
 
 usado para a aula da dio como criar seu plano de estudos usando gitbub
 
@@ -11,7 +11,10 @@ Lista
 3. Curso 2
 4. Curso 3
 
+###Descrição
+
 Este roadmap é voltado para iniciantes que desejam ingressa na área de programação con Java. Os cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me
+[OBS:] Dentro do mundo do desenvolvimento você pode seguir diversos caminhos. Alguns deles, com Java, estão citados abaixo: Web, Mensageria, teste ...
 
 [**Roadmap de Java** (Básico ao avançado)](https://github.com/julianazanelatto/roadmap_java_repo/blob/main/README.md)
 
